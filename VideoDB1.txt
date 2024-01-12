@@ -1,0 +1,35 @@
+34
+The-Wizard-of-Oz Victor-Fleming 1939 1 Judy-Garland out 5432 11-19-10
+The-Wizard-of-Oz Victor-Fleming 1939 1 Judy-Garland in
+Star-Wars George-Lucas 1977 3 Harrison-Ford Mark-Hamill Carrie-Fisher in
+Star-Wars George-Lucas 1977 3 Harrison-Ford Mark-Hamill Carrie-Fisher in
+Star-Wars George-Lucas 1977 3 Harrison-Ford Mark-Hamill Carrie-Fisher in
+The-Terminator James-Cameron 1984 1 Arnold-Schwarzenegger out 1234 11-23-10
+The-Terminator James-Cameron 1984 1 Arnold-Schwarzenegger in
+Spider-Man Sam-Raimi 2002 2 Tobey-Maguire Kirsten-Dunst in
+Spider-Man Sam-Raimi 2002 2 Tobey-Maguire Kirsten-Dunst in
+Spider-Man Sam-Raimi 2002 2 Tobey-Maguire Kirsten-Dunst out 1234 11-19-10
+Spider-Man Sam-Raimi 2002 2 Tobey-Maguire Kirsten-Dunst in
+Spider-Man-2 Sam-Raimi 2004 2 Tobey-Maguire Kirsten-Dunst in
+Spider-Man-2 Sam-Raimi 2004 2 Tobey-Maguire Kirsten-Dunst in
+Spider-Man-2 Sam-Raimi 2004 2 Tobey-Maguire Kirsten-Dunst in
+Spider-Man-2 Sam-Raimi 2004 2 Tobey-Maguire Kirsten-Dunst in
+Spider-Man-3 Sam-Raimi 2007 2 Tobey-Maguire Kirsten-Dunst in
+Spider-Man-3 Sam-Raimi 2007 2 Tobey-Maguire Kirsten-Dunst out 5432 11-19-10
+Spider-Man-3 Sam-Raimi 2007 2 Tobey-Maguire Kirsten-Dunst in
+Spider-Man-3 Sam-Raimi 2007 2 Tobey-Maguire Kirsten-Dunst in 
+Up Pete-Docter 2009 2 Ed-Asner Christopher-Plummer in
+Up Pete-Docter 2009 2 Ed-Asner Christopher-Plummer in
+Up Pete-Docter 2009 2 Ed-Asner Christopher-Plummer in
+Up Pete-Docter 2009 2 Ed-Asner Christopher-Plummer in
+Up Pete-Docter 2009 2 Ed-Asner Christopher-Plummer in
+Up Pete-Docter 2009 2 Ed-Asner Christopher-Plummer in
+WALL-E Andrew-Stanton 2008 2 Ben-Burtt Elissa-Knight in
+WALL-E Andrew-Stanton 2008 2 Ben-Burtt Elissa-Knight in
+WALL-E Andrew-Stanton 2008 2 Ben-Burtt Elissa-Knight in
+WALL-E Andrew-Stanton 2008 2 Ben-Burtt Elissa-Knight in
+Inside-Out Pete-Docter 2015 2 Amy-Poehler Phyllis-Smith in
+Inside-Out Pete-Docter 2015 2 Amy-Poehler Phyllis-Smith in
+Inside-Out Pete-Docter 2015 2 Amy-Poehler Phyllis-Smith in
+Inside-Out Pete-Docter 2015 2 Amy-Poehler Phyllis-Smith in
+Inside-Out Pete-Docter 2015 2 Amy-Poehler Phyllis-Smith in
